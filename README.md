@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NatarajanK1407
+- 👋 Hi, I’m Natarajan Kumar
 <h4>To be<em> Data Scientist<em></h4>
 
 <!---
